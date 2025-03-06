@@ -42024,7 +42024,7 @@ if(s.$2(a,k)>0){j.b[b]=k
 b=p}}j.b[b]=a}}
 A.He.prototype={
 N(a){var s=null,r=A.a([new A.u2(new A.ro(new A.a2q(),s,s,s,A.aGs(),A.aET(),t.A7),s,s,s,s,t.rY)],t.Ds)
-return A.az6(new A.wc(B.KT,"Flutter Demo",A.app(s,A.aws(B.a7,B.XY),!0),s),r)}}
+return A.az6(new A.wc(B.KT,"6G Path Dashboard",A.app(s,A.aws(B.a7,B.XY),!0),s),r)}}
 A.a2q.prototype={
 $1(a){var s=$.vD
 if(s==null){s=new A.pz()
